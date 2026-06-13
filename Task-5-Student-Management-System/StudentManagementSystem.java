@@ -35,7 +35,7 @@ class Student {
     }
 }
 
-public class Main3 {
+public class StudentManagementSystem {
 
     static ArrayList<Student> students = new ArrayList<>();
     static Scanner sc = new Scanner(System.in);
