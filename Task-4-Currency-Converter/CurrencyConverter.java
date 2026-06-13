@@ -31,7 +31,7 @@ class CurrencyConverter {
     }
 }
 
-public class Main1 {
+public class CurrencyConverter {
 
     public static void main(String[] args) {
 
