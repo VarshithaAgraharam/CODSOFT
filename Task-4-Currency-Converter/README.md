@@ -24,4 +24,4 @@ The project provides a menu-driven interface and supports multiple currency conv
 
 ## Author
 
-Agraharam Varshitha
+Varshitha Agraharam
