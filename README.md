@@ -93,7 +93,7 @@ A Java-based application designed to manage student records efficiently.
 
 ## Author
 
-**Agraharam Varshitha**
+**Varshitha Agraharam**
 
 Java Development Intern - CodSoft
 
