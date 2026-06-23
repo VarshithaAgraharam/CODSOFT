@@ -28,4 +28,4 @@ A Java application that calculates total marks, average percentage, and grade ba
 
 ## Author
 
-Agraharam Varshitha
+Varshitha Agraharam
