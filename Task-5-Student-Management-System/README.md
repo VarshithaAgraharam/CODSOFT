@@ -27,5 +27,5 @@ Users can add, view, search, update, delete, and sort student records through a 
 
 ## Author
 
-Agraharam Varshitha
+Varshitha Agraharam
 
