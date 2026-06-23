@@ -10,3 +10,6 @@ A Java-based guessing game where the user tries to guess a randomly generated nu
 
 ## Technology Used
 - Java
+  
+## Author
+Varshitha Agraharam
