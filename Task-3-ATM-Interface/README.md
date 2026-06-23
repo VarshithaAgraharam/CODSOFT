@@ -23,4 +23,4 @@ Users can check their account balance, deposit money, withdraw money, and valida
 
 ## Author
 
-Agraharam Varshitha
+Varshitha Agraharam
