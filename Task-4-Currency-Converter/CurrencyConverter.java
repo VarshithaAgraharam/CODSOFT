@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class CurrencyConverter {
+class CurrencyConverterLogic {
 
     private final String[] currencies = {
             "INR", "USD", "EUR"
@@ -9,9 +9,9 @@ class CurrencyConverter {
 
     // Rates relative to INR
     private final double[] rates = {
-            1.0,                // INR
-            1.0 / 94.94,        // USD
-            1.0 / 109.37        // EUR
+            1.0,
+            1.0 / 94.94,
+            1.0 / 109.37
     };
 
     public double convert(int from, int to, double amount) {
@@ -36,7 +36,7 @@ public class CurrencyConverter {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        CurrencyConverter converter = new CurrencyConverter();
+        CurrencyConverterLogic converter = new CurrencyConverterLogic();
         ArrayList<String> history = new ArrayList<>();
 
         int choice;
